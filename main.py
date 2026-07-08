@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 API_KEY = "ak_88u3mm7plnrfsv1urhtlw824"
-EMAIL = "YOUR_EMAIL@example.com"   # <-- Replace with your exam/login email
+EMAIL = "23f2004445@ds.study.iitm.ac.in"   # <-- Replace with your exam/login email
 
 app = FastAPI()
 
